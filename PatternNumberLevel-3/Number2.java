@@ -1,3 +1,10 @@
+// 0 0 0 0 0 
+//   1 1 1 1 
+//     0 0 0 
+//       1 1 
+//         0 
+
+
 import java.util.Scanner;
 
 public class Number2 {
@@ -23,3 +30,4 @@ public class Number2 {
     }
     
 }
+
