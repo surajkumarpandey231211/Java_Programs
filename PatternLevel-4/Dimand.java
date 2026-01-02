@@ -1,3 +1,12 @@
+
+//       * 
+//     * * * 
+//   * * * * * 
+// * * * * * * * 
+//   * * * * * 
+//     * * * 
+//       * 
+
 import java.util.Scanner;
 public class Dimand {
     public static void printPattern(int n){
@@ -27,3 +36,4 @@ public class Dimand {
         printPattern(n);
     }
 }
+
